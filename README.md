@@ -17,31 +17,10 @@ LSTMs are a type of recurrent neural network (RNN) that are well-suited for sequ
 
 ---
 
-## 📂 Project Structure
-sentiment-lstm/
-│
-├── data/ # Dataset files
-│ └── dataset.csv
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Source code
-│ ├── preprocess.py # Text preprocessing pipeline
-│ ├── model.py # LSTM model definition
-│ ├── train.py # Training script
-│ ├── evaluate.py # Model evaluation
-│ └── predict.py # Inference on new text
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/sentiment-lstm.git
+git clone https://github.com/Talha4543/sentiment-lstm.git
 cd sentiment-lstm
 Install dependencies:
 
@@ -49,6 +28,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
 📊 Dataset
 You can use:
 
